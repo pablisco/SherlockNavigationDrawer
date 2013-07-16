@@ -1,4 +1,4 @@
-package com.sherlock.navigationdrawer;
+package com.sherlock.navigationdrawer.example;
 
 import android.content.res.Configuration;
 import android.os.Bundle;

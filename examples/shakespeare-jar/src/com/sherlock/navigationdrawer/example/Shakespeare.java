@@ -1,4 +1,4 @@
-package com.sherlock.navigationdrawer;
+package com.sherlock.navigationdrawer.example;
 
 public final class Shakespeare {
     /**
